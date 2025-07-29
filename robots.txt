@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://abhikshadentalcare.github.io/Abhiksha-Dental-Care/sitemap.xml
